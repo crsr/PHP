@@ -1,4 +1,3 @@
-db.class
+PHP scripts
 ========
 
-connection database class (pdo)
